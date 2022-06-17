@@ -5,7 +5,7 @@ This repository will walk you through how to overlay a map image on top of a con
 
 \
 ![](static/SPOT_Contour.png)
-This tutorial will produce the plot above. This is an contour plot of the satellite-derived chlorophyll a concentrations observed on June 4, 2022 near the San Pedro Ocean Time-series monitoring station. The data used to make this plot were obtained from CMEMS
+This tutorial will produce the plot above. This is an contour plot of the satellite-derived chlorophyll a concentrations observed on June 4, 2022 near the San Pedro Ocean Time-series monitoring station (in between the Port of LA and Catalina Island). The data used to make this plot were obtained from CMEMS.
 
 ## 1.) CMEMS data download
 Satellite data (e.g. chlorophyll, sea surface height, etc.) can be downloaded through the Copernicus Marine Service website (https://marine.copernicus.eu). This site will allow you to download your z variable of interest (to be contoured) at your desired latitude and longitude. 
